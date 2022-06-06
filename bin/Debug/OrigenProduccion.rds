@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="OrigenProduccion">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=srvintecapcurso.database.windows.net;Initial Catalog=DB_CHAPINGT_APP</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>fd440721-4d12-4780-b6c9-e4e8c417d5b8</DataSourceID>
+</RptDataSource>
